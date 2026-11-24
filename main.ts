@@ -1,4 +1,5 @@
 // Status Report Comedy Sprint — one-line text entry.
+// Revision pass: notes added beside the code, the line itself left alone.
 // The winning line is written verbatim to /output/entry.txt, with no
 // trailing newline, so the file holds exactly the entry and nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
